@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4BFBBE8B76EA13E8EB544DB4CB274513F265B970",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C84F3DCB9D3DB416182DDCCD5FDB7F1EFFAA332A" : 0,
+    "4BFBBE8B76EA13E8EB544DB4CB274513F265B970" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D0390EB9-2A0B-41A1-BD82-F6CE30D4F53D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C84F3DCB9D3DB416182DDCCD5FDB7F1EFFAA332A" : "..\/..\/addons\/ofxNearestNeighbour",
+    "4BFBBE8B76EA13E8EB544DB4CB274513F265B970" : "connectedLine\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "connectedLine",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "connectedLine.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/javl\/connectedLine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4BFBBE8B76EA13E8EB544DB4CB274513F265B970"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neilmendoza\/ofxNearestNeighbour.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C84F3DCB9D3DB416182DDCCD5FDB7F1EFFAA332A"
+    }
+  ]
+}
