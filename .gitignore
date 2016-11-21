@@ -2,3 +2,4 @@ obj
 *.sublime-workspace
 *.qbs
 bin/libs
+.DS_Store
